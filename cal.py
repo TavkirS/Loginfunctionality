@@ -3,6 +3,8 @@ print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
 print("4. Divide")
+print("3. BOD")
+print("4. Percentage")
 
 choice = input("Enter choice (1/2/3/4): ")
 
